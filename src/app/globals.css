@@ -1,3 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .scrollbar::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+  }
+  .scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-primary;
+  }
+}
+
+.hamburger-line {
+  @apply my-2 h-[2px] w-[30px] bg-primary;
+}
+
+.hamburger-active > div:nth-child(1) {
+  @apply rotate-45;
+}
+
+.hamburger-active > div:nth-child(2) {
+  @apply scale-0;
+}
+
+.hamburger-active > div:nth-child(3) {
+  @apply -rotate-45;
+}
+
+.btn-animate {
+  box-shadow: inset 0 0 0 2em var(--hover);
+}

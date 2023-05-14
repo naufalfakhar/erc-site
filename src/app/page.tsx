@@ -1,9 +1,15 @@
+import Footer from '@/components/Footer'
+import Section1 from '@/components/home/Section1'
+import Section2 from '@/components/home/Section2'
+import Section3 from '@/components/home/Section3'
+
 export default function Home() {
   return (
-    <main className='flex min-h-screen items-center justify-center'>
-      <h1 className='bg-gradient-to-r from-primary to-secondary bg-clip-text py-10 text-3xl font-bold text-transparent'>
-        Hello world!
-      </h1>
+    <main className='h-screen'>
+      <Section1 />
+      <Section2 />
+      <Section3 />
+      <Footer />
     </main>
   )
 }

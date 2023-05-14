@@ -30,8 +30,12 @@ module.exports = {
        * * Add custom colors here
        */
       colors: {
-        primary: '#14b8a6',
-        secondary: '#06b6d4',
+        primary: '#FEDB39',
+        'neutral-dark': '#102A43',
+        neutral: '#334E68',
+        'neutral-light': '#627D98',
+        dark: '#111827',
+        accent: '#1CD6CE',
       },
     },
   },

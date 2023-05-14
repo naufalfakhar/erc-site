@@ -1,5 +1,5 @@
 {
-  "name": "next-boilerplate",
+  "name": "erc-site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "clsx": "^1.2.1",
+    "framer-motion": "^10.12.10",
     "next": "13.4.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-social-icons": "^5.15.0",
     "tailwind-merge": "^1.12.0",
     "typescript": "5.0.4"
   },

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "name": "Beast",
+    "category": "fixed wing",
+    "contest": "Kontes Robot Terbang Indonesia 2020 Kementerian Pendidikan Dan Kebudayaan",
+    "result": "Lolos tahap 1 kategori fixed wing",
+    "members": [
+      {
+        "name": "Ardy Ilman Zulfikar",
+        "nim": "201711106"
+      },
+      {
+        "name": "Febriyan Saputra",
+        "nim": "201711126"
+      },
+      {
+        "name": "Nur Mukhlas",
+        "nim": "201911043"
+      }
+    ],
+    "image": "/projects/beast.jpeg",
+    "month": "Sep",
+    "year": "2021",
+    "description": "Pada bagian kepala pesawat konsepnya yaitu bagian luar dilapisi oleh fiber composite. Bagian dalam berbahan styrofoam. apabila wing pesawat dibuka maka terdapat ruang yang berbentuk kotak untuk memasukkan komponen. Lalu bila komponen sudah dipasang kembali dan telah sesuai penempatan nya, maka wing menutup ruang/lubang terebut. Elektronik ditempatkan dalam kotak sebelum assembly. Setelah di assembly kemudian ditempatkan di fuselage. Adapun box mobilitas pesawat yang fungsinya untuk menyimpan frame pesawatnya. Untuk sayap pesawat yang kami buat konsepnya yaitu twin boom yang memiliki 2 vertikal stabilizer, dengan bentuknya yaitu tapered edge, straight trailling edge, dan konfigurasinya high wing."
+  },
+  {
+    "id": "2",
+    "name": "Aero Angel",
+    "category": "fixed wing",
+    "contest": "Kontes Robot Terbang Indonesia 2021 Kementerian Pendidikan Dan Kebudayaan, Riset Dan Teknologi Pusat Prestasi Nasional (PUSPRESNAS)",
+    "result": "Masuk evaluasi tahap 2 dan walk out saat final",
+    "members": [
+      {
+        "name": "Ardy Ilman Zulfikar",
+        "nim": "201711106"
+      },
+      {
+        "name": "Krispaldi Fransisko",
+        "nim": "201811138"
+      },
+      {
+        "name": "Nur Mukhlas",
+        "nim": "201911043"
+      }
+    ],
+    "image": "/projects/aero-angle.jpeg",
+    "month": "Nov",
+    "year": "2021",
+    "description": "Drone UAV dengan mainframe nya terbuat dari bahan Styrofoam dan diperkuat dengan fiber composite. Fuselage menggunakan bahan full fiber untuk mencapai massa drone seringan mungkin tetapi juga sekuat mungkin. Ciri khas dari drone yang kami buat ini berada di bagian wing nya. Yaitu kami mendesign sedemikian rupa dengan bentuk gull wing. Full elektronik yaitu control system atau input terdapat radio control (transmitter) dan prosessor menggunakan Pixhawk 4 (receiver). Dan untuk bagian output terdapatservo flight control, motor DC, dan fpv camera."
+  },
+  {
+    "id": "3",
+    "name": "Thunderbolt",
+    "category": "Racing Plane",
+    "contest": "Kontes Robot Terbang Indonesia 2021 Kementerian Pendidikan Dan Kebudayaan, Riset Dan Teknologi Pusat Prestasi Nasional (PUSPRESNAS)",
+    "result": "finalist tahap 2 ranking #22",
+    "members": [
+      {
+        "name": "Fahaz Arba Aziz",
+        "nim": "201811001"
+      },
+      {
+        "name": "Cahyo Utomo",
+        "nim": "201811031"
+      },
+      {
+        "name": "Angger Dwi Lukito",
+        "nim": "201911057"
+      }
+    ],
+    "image": "/projects/thunderbolt.jpeg",
+    "month": "Nov",
+    "year": "2021",
+    "description": "Drone UAV dengan design drone ini terinspirasi dari 2 jenis pesawat, yaitu Funjet dan SR-71. Ciri khas yang tim buat di bagian Fuselage nya yang berbentuk silinder untuk menggapai tingkat ke aerodinamisannya. Terdapat konfigurasi elevon, dimana itu mengurangi penggunaan elektronik lebih sedikit dibanding sistem penggerak pada pesawat konvensional. pada konfigurasi elevon hanya menggunakan 2 servo dan membuat lebih hemat baterai."
+  },
+  {
+    "id": "4",
+    "name": "King Zeus",
+    "category": "Robot Sumo",
+    "contest": "Kontes Robot Indonesia (KRI) 2022 Kementerian Pendidikan Dan Kebudayaan, Riset Dan Teknologi Pusat Prestasi Nasional (PUSPRESNAS)",
+    "result": "top 6",
+    "members": [
+      {
+        "name": "Maman Firmansyah",
+        "nim": "201811042"
+      },
+      {
+        "name": "Adi Nur Haqqi",
+        "nim": "201811021"
+      },
+      {
+        "name": "Windu Adjie Chandraningrat ",
+        "nim": "202011102"
+      }
+    ],
+    "image": "/projects/kingzeus.jpeg",
+    "month": "Sep",
+    "year": "2021",
+    "description": "Robot sumo menggunakan teknologi berupa mikrokontroler arduino serta penggunaan komponen elektronika seperti motor DC hingga sensor-sensor yang di rancang sedemikian rupa sehingga dapat bergerak dengan pengaturan joystick sebagai remote control dan bergerak otomatis berdasarkan pembacaan sensor. Keunggulan dari robot sumo king zeus besi didalam mengikuti kompetisi yaitu dapat bertahan dari kerusakan fisik pada body robot akibat tabrakan."
+  },
+  {
+    "id": "5",
+    "name": "Lightspeed Rescue",
+    "category": "Robot SAR",
+    "contest": "Kontes Robot Indonesi 2021 & 2022 Kementerian Pendidikan Dan Kebudayaan, Riset Dan Teknologi Pusat Prestasi Nasional (PUSPRESNAS)",
+    "result": "regional (2021), regional (2022)",
+    "members2021": [
+      {
+        "name": "Danu Hazar Hidayat",
+        "nim": "201811046"
+      },
+      {
+        "name": "I Gede Krisna Fajar",
+        "nim": "201911006"
+      },
+      {
+        "name": "Mochammad Syafiq Alaih ",
+        "nim": "201911080"
+      }
+    ],
+    "members2022": [
+      {
+        "name": "Ahmad Naufal Alfakhar",
+        "nim": "201811023"
+      },
+      {
+        "name": "Muhammad Fadl Rafi U",
+        "nim": "201911121"
+      },
+      {
+        "name": "Jodhi Krisantus Sihalbu",
+        "nim": "201911253"
+      }
+    ],
+    "image": "/projects/lightspeed-rescue.jpeg",
+    "month": "Jun",
+    "year": " 2021",
+    "description": "KRSRI atau Kontes Robot SAR Indonesia adalah Kontes Robot yang diselenggarakan bersamaan dengan Kontes Robot Indonesia. KRSRI ini merupakan pengganti Kontes Robot Pemadam Api Indonesia (KRPAI) yang lebih menekankan pada misi pencarian dan penyelamatan bencana. Kelebihan utama robot ini bergerak secara otomatis, dari segi bentuk, robot ini mirip seperti laba-laba dan merupakan robot berkaki (bukan robot beroda) yang bergerak dengan cara melangkah sehingga dapat lebih menyesuaikan diri menghadapi rintangan. Dari segi fungsi robot ini dapat mendeteksi dan memadamkan api, serta mencari dan menyelamatkan korban."
+  },
+  {
+    "id": "6",
+    "name": "E-time",
+    "category": "2022",
+    "contest": "PNJ",
+    "result": "finalist",
+    "members": [
+      {
+        "name": "Moh. Bangkit Rizkyarto",
+        "nim": "201811017"
+      },
+      {
+        "name": "Fahaz Arba Aziz",
+        "nim": "201811001"
+      },
+      {
+        "name": "Dennis Ocsadifa",
+        "nim": "201811022"
+      },
+      {
+        "name": "Adrian Fergusta Megananda",
+        "nim": "202011088"
+      },
+      {
+        "name": "Ckelvin Pratama Putra",
+        "nim": "202011013"
+      },
+      {
+        "name": "Varysxky Kornelius",
+        "nim": "202011266"
+      }
+    ],
+    "image": "/projects/e-time.jpeg",
+    "month": "Jul",
+    "year": " 2022",
+    "description": "Salah satu perangkat kontrol yang banyak digunakan pada industri ini adalah Programmable Logic Controller (PLC). Perangkat ini mengatur pengoperasian dalam lingkup pengendalian lokal untuk berbagai perangkat mekanik dan elektrik, baik dalam kondisi normal maupun untuk mengaktifkan sistem pengamanan. Pembuatan PLC ini juga dapat digunakan sebagai bahan ajar untuk mahasiswa IT-PLN"
+  }
+]
