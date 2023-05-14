@@ -31,7 +31,7 @@ export default function page() {
             </p>
             <div className='grid gap-4 md:grid-cols-2'>
               <div>
-                <h3 className='mb-4 text-center text-center uppercase text-primary md:text-2xl'>
+                <h3 className='mb-4 text-center uppercase text-primary md:text-2xl'>
                   visi
                 </h3>
                 <p>
@@ -42,7 +42,7 @@ export default function page() {
                 </p>
               </div>
               <div>
-                <h3 className='mb-4 text-center text-center uppercase text-primary md:text-2xl'>
+                <h3 className='mb-4 text-center uppercase text-primary md:text-2xl'>
                   misi
                 </h3>
                 <ul className='list-inside list-decimal space-y-2'>
