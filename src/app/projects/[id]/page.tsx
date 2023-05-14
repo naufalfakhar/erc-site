@@ -30,7 +30,7 @@ export default function Page() {
               deskripsi projek
             </h3>
             <p className='mt-4 text-justify'>{projectObj?.description}</p>
-            <div className='mt-10 grid grid-cols-3 gap-8'>
+            <div className='mt-10 grid gap-8 md:grid-cols-3'>
               <div className='flex flex-col items-center'>
                 <h3 className='text-center uppercase text-primary md:text-2xl'>
                   kontes yang diikuti
