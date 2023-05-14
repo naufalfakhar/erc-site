@@ -26,13 +26,13 @@ export default function Page() {
                 className='mt-8 rounded-2xl'
               />
             )}
-            <h3 className='font mt-8 text-2xl uppercase text-primary'>
+            <h3 className='font mt-8 text-center uppercase text-primary md:text-2xl'>
               deskripsi projek
             </h3>
             <p className='mt-4 text-justify'>{projectObj?.description}</p>
             <div className='mt-10 grid grid-cols-3 gap-8'>
               <div className='flex flex-col items-center'>
-                <h3 className='text-2xl uppercase text-primary'>
+                <h3 className='text-center uppercase text-primary md:text-2xl'>
                   kontes yang diikuti
                 </h3>
                 <p className='mt-4 text-center capitalize'>
@@ -40,19 +40,23 @@ export default function Page() {
                 </p>
               </div>
               <div className='flex flex-col items-center'>
-                <h3 className='text-2xl uppercase text-primary'>kategori</h3>
+                <h3 className='text-center uppercase text-primary md:text-2xl'>
+                  kategori
+                </h3>
                 <p className='mt-4 text-center capitalize'>
                   {projectObj?.category}
                 </p>
               </div>
               <div className='flex flex-col items-center'>
-                <h3 className='text-2xl uppercase text-primary'>Hasil</h3>
+                <h3 className='text-center uppercase text-primary md:text-2xl'>
+                  Hasil
+                </h3>
                 <p className='mt-4 text-center capitalize'>
                   {projectObj?.result}
                 </p>
               </div>
             </div>
-            <h3 className='font mt-8 text-2xl uppercase text-primary'>
+            <h3 className='font mt-8 text-center uppercase text-primary md:text-2xl'>
               anggota projek
             </h3>
             <ul className='text-center'>

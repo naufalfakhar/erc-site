@@ -5,7 +5,7 @@ export default function Section1() {
   return (
     <div className='relative h-screen'>
       <motion.div
-        className='absolute bottom-0 z-20 rounded-xl bg-black p-4 text-2xl font-bold text-white md:hidden'
+        className='absolute bottom-1/4 z-20 rounded-xl bg-black p-4 text-2xl font-bold text-white md:hidden'
         initial={{ opacity: 0, y: -100 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 3 }}

@@ -11,13 +11,15 @@ export default function page() {
             <h2 className='text-center text-4xl font-semibold uppercase leading-normal text-primary'>
               About Us
             </h2>
-            <h3 className='text-2xl uppercase text-primary'>apa itu erc?</h3>
+            <h3 className='text-center uppercase text-primary md:text-2xl'>
+              apa itu erc?
+            </h3>
             <p>
               ERC atau Electrical Research Center adalah sebuah wadah yang
               berfokus pada inovasi teknologi dan sebagai inkubator utama ide
               inovasi teknologi yang berada di dalam naungan HME FKET IT-PLN.
             </p>
-            <h3 className='text-2xl uppercase text-primary'>
+            <h3 className='text-center uppercase text-primary md:text-2xl'>
               kapan berdirinya erc?
             </h3>
             <p>
@@ -29,7 +31,7 @@ export default function page() {
             </p>
             <div className='grid gap-4 md:grid-cols-2'>
               <div>
-                <h3 className='mb-4 text-center text-2xl uppercase text-primary'>
+                <h3 className='mb-4 text-center text-center uppercase text-primary md:text-2xl'>
                   visi
                 </h3>
                 <p>
@@ -40,7 +42,7 @@ export default function page() {
                 </p>
               </div>
               <div>
-                <h3 className='mb-4 text-center text-2xl uppercase text-primary'>
+                <h3 className='mb-4 text-center text-center uppercase text-primary md:text-2xl'>
                   misi
                 </h3>
                 <ul className='list-inside list-decimal space-y-2'>
