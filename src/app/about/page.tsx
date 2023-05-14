@@ -14,7 +14,7 @@ export default function page() {
             <h3 className='text-center uppercase text-primary md:text-2xl'>
               apa itu erc?
             </h3>
-            <p>
+            <p className='text-justify'>
               ERC atau Electrical Research Center adalah sebuah wadah yang
               berfokus pada inovasi teknologi dan sebagai inkubator utama ide
               inovasi teknologi yang berada di dalam naungan HME FKET IT-PLN.
@@ -22,7 +22,7 @@ export default function page() {
             <h3 className='text-center uppercase text-primary md:text-2xl'>
               kapan berdirinya erc?
             </h3>
-            <p>
+            <p className='text-justify'>
               ERC berdiri sejak 7 November 2019. dimana pada tanggal tersebut
               merupakan pengumuman anggota pertama dari ERC. Sebelumnya pada
               tanggal tersebut ERC masih bernama Electrical Special Team, dan
@@ -34,11 +34,11 @@ export default function page() {
                 <h3 className='mb-4 text-center uppercase text-primary md:text-2xl'>
                   visi
                 </h3>
-                <p>
-                  MENJADI PUSAT PENELITIAN DAN PENGEMBANGAN INOVASI DI BIDANG
-                  TEKNIK ELEKTRO YANG MEMILIKI KUALITAS NASIONAL SERTA MENJADI
-                  GARDA TERDEPAN DALAM KEMAJUAN INOVASI PADA JURUSAN TEKNIK
-                  ELEKTRO
+                <p className='text-justify capitalize'>
+                  menjadi pusat penelitian dan pengembangan inovasi di bidang
+                  teknik elektro yang memiliki kualitas nasional serta menjadi
+                  garda terdepan dalam kemajuan inovasi pada jurusan teknik
+                  elektro
                 </p>
               </div>
               <div>
